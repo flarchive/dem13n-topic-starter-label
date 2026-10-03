@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of dem13n/topic-starter-label.** Not for installation: use [Packagist](https://packagist.org/packages/dem13n/topic-starter-label) or the [upstream repository](https://github.com/Dem13n/topic-starter-label).
 
-**0** versions archived · Latest: [`0.1.8`](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.2`
+**9** versions archived · Latest: [`0.1.8`](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-01-18 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-01-19 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-01-21 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-02-01 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-03-15 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-06-07 | `^1.0.0` | [Browse](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-07-11 | `^1.0.0` | [Browse](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.6) |
+| `0.1.7` | 2021-08-17 | `^1.0.0` | [Browse](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.7) |
+| `0.1.8` | 2022-03-01 | `^1.2` | [Browse](https://github.com/flarchive/dem13n-topic-starter-label/tree/archive/v0.1.8) |
 
 Catalog entry: [packages/dem13n-topic-starter-label.json](https://github.com/flarchive/archive-index/blob/main/packages/dem13n-topic-starter-label.json)
 
